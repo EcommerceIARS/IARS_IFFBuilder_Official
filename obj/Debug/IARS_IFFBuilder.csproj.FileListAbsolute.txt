@@ -1,0 +1,12 @@
+c:\users\arustedknight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\bin\Debug\IARS_IFFBuilder.exe.config
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\bin\Debug\IARS_IFFBuilder.exe
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\bin\Debug\IARS_IFFBuilder.pdb
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\obj\Debug\IARS_IFFBuilder.csprojResolveAssemblyReference.cache
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\obj\Debug\IARS_IFFBuilder.Properties.Resources.resources
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\obj\Debug\IARS_IFFBuilder.csproj.GenerateResource.Cache
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\obj\Debug\IARS_IFFBuilder.exe
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\obj\Debug\IARS_IFFBuilder.pdb
+C:\Users\ARustedKnight\documents\visual studio 2015\Projects\IARS_IFFBuilder\IARS_IFFBuilder\obj\Debug\IARS_IFFBuilder.IFFBuilderAPP.resources
+C:\Users\ARustedKnight\Desktop\New folder\IARS_IFFBuilder.exe.config
+C:\Users\ARustedKnight\Desktop\New folder\IARS_IFFBuilder.exe
+C:\Users\ARustedKnight\Desktop\New folder\IARS_IFFBuilder.pdb
